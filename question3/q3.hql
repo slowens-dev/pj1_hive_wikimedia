@@ -1,3 +1,6 @@
+-- it became known that the ordering was incorrect in this script
+-- the methodology is identical but the order in which the  pages were
+-- queried is different here form what produced the data in the presentation
 
 --	all data files have already been loaded. during q2
 --	Finding the series of internal links that retains the highest percentage of users
